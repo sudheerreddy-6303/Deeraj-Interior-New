@@ -1,0 +1,25 @@
+// Bootstrap 5 themed with the Deeraj Interiors brand.
+// Bootstrap gives the grid, breakpoints, navbar/off-canvas, modals, forms, toasts and the admin UI.
+$primary: #c2410c;
+$secondary: #6b5b4d;
+$success: #2f6b3a;
+$danger: #b42318;
+$warning: #e8b25f;
+$info: #51708f;
+$light: #f3ebe2;
+$dark: #22190f;
+$body-bg: #f8f4f0;
+$body-color: #22190f;
+$link-color: #b83d06;
+$link-decoration: none;
+$font-family-sans-serif: "Manrope", "Segoe UI", system-ui, sans-serif;
+$headings-font-weight: 600;
+$border-color: #e3d8cc;
+$border-radius: .5rem;
+$border-radius-lg: .875rem;
+$input-border-color: #9c8b7a;
+$input-focus-border-color: #c2410c;
+$enable-smooth-scroll: true;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl: 1400px);
+
+@import "bootstrap/scss/bootstrap";
